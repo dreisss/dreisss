@@ -1,16 +1,13 @@
-### Hi there 👋
+<hr>
 
-<!--
-**dreisss/dreisss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dreisss&show_icons=true&bg_color=45,0b0e14,1f2430aa&title_color=39bae6&text_color=cccac2&icon_color=39bae677&border_color=39bae621">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dreisss&layout=compact&show_icons=true&bg_color=45,0b0e14,1f2430aa&title_color=39bae6&text_color=cccac2&icon_color=39bae677&border_color=39bae621">
 
-Here are some ideas to get you started:
+  <br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <img src="https://github.com/dreisss/dreisss/blob/output/github-contribution-grid-snake.gif">
+
+</div>
+
+<hr>
